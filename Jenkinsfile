@@ -1,1 +1,1 @@
-echo "hello world"
+evaluate(new File("./devops/include.groovy"))
