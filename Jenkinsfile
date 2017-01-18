@@ -1,1 +1,1 @@
-load "${workspace}@script/devops/include.groovy"
+load "./devops/include.groovy"
