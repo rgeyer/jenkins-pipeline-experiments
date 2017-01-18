@@ -1,1 +1,1 @@
-evaluate(new File("./devops/include.groovy"))
+load "${workspace}@script/devops/include.groovy"
